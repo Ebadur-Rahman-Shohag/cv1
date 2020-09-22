@@ -1,0 +1,23 @@
+body{
+    background-color:#d9ecf2;
+}
+.pic{
+    border-radius: 50%;
+}
+img{
+   height: 200px;
+   width: 200px;
+}
+h1{
+    color: red;
+}
+h3{
+    color: red;
+}
+hr{
+   border-color: rgb(107, 79, 79);
+   border-style: none;
+   border-top-style: dotted;
+   border-width: 5px;
+   width: 5%;
+}
